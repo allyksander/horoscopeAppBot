@@ -22,3 +22,7 @@ run in your terminal:
 ```bash
 npm run build
 ```
+
+## Note
+
+For correct work after deploying in Vercel, set VERCEL_URL="your-vercel-deployment-link" environment variable
